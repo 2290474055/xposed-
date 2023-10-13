@@ -1,4 +1,3 @@
 include ':xposeddemo'
-include ':XposedAppiumLib'
 include ':app'
 rootProject.name = "XposedAppium"
